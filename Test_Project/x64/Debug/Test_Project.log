@@ -1,0 +1,11 @@
+﻿  Main.cpp
+  Map.cpp
+  PlayGame.cpp
+c:\users\s_hero589\desktop\c++ 팀플\12.03 테트리스(최종)\테트리스 최종(시연용 x)\test_project\playgame.cpp(57): warning C4302: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 잘립니다.
+c:\users\s_hero589\desktop\c++ 팀플\12.03 테트리스(최종)\테트리스 최종(시연용 x)\test_project\playgame.cpp(59): warning C4302: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 잘립니다.
+c:\users\s_hero589\desktop\c++ 팀플\12.03 테트리스(최종)\테트리스 최종(시연용 x)\test_project\playgame.cpp(220): warning C4302: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 잘립니다.
+  SetGame.cpp
+  Stage.cpp
+  Stage_data.cpp
+  코드를 생성하고 있습니다...
+  Test_Project.vcxproj -> C:\Users\s_hero589\Desktop\C++ 팀플\12.03 테트리스(최종)\테트리스 최종(시연용 x)\x64\Debug\Test_Project.exe
